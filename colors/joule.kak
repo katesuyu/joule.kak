@@ -52,7 +52,7 @@ evaluate-commands %sh{
         face global type ${orange}
         face global keyword ${blue}
         face global attribute ${blue}
-        face global comment ${gray}
+        face global comment ${gray}+i
         face global string ${lavender}
         face global operator Default
 
