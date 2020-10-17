@@ -20,7 +20,7 @@ evaluate-commands %sh{
         face global Default ${foreground},${background}
         face global BufferPadding ${padding},${padding}
         face global LineNumbers ${gray},${gutter}
-        face global LineNumbersWrapped +ui@LineNumbers
+        face global LineNumbersWrapped +i@LineNumbers
         face global LineNumberCursor ${foreground}@LineNumbers
         face global LineFlagErrors ${red}@LineNumbers
         face global PrimaryCursor ${black},${white}
