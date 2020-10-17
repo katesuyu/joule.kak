@@ -1,0 +1,15 @@
+// SPDX-License-Identifier: 0BSD
+
+= Joule
+:ayu-theme: https://github.com/dempfi/ayu
+
+Joule, a colorscheme inspired by {ayu-theme}[Ayu], enhanced by its own unique flare.
+
+[[screenshot]]
+image::screenshot.png[Joule colorscheme]
+
+== License
+
+To the fullest extent possible, this repository is licensed under the link:LICENSE[BSD 0-Clause License].
+
+Ayu's link:AYU-LICENSE[MIT License] is reproduced here in case Joule is considered a derivative work.
